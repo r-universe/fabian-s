@@ -1,10 +1,10 @@
 [
   {
-    "package": "RLRsim",
+    "package": "spikeSlabGAM",
     "oncran": true
   },
   {
-    "package": "spikeSlabGAM",
+    "package": "RLRsim",
     "oncran": true
   }
 ]
