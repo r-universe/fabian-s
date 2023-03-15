@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "spikeSlabGAM"]
-	path = spikeSlabGAM
-	url = https://github.com/fabian-s/spikeslabgam
-	shallow = true
-	registered = true
 [submodule "RLRsim"]
 	path = RLRsim
 	url = https://github.com/fabian-s/rlrsim
+	shallow = true
+	registered = true
+[submodule "spikeSlabGAM"]
+	path = spikeSlabGAM
+	url = https://github.com/fabian-s/spikeslabgam
 	shallow = true
 	registered = true
