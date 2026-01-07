@@ -5,6 +5,10 @@
 [submodule "RLRsim"]
 	path = RLRsim
 	url = https://github.com/fabian-s/rlrsim
+[submodule "lme4"]
+	path = lme4
+	url = https://github.com/lme4/lme4
+	registered = false
 [submodule "spikeSlabGAM"]
 	path = spikeSlabGAM
 	url = https://github.com/fabian-s/spikeslabgam
